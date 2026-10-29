@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Personal web page of Kieshun Dixon, introducing who I am, what I'm learning, and how to contact me.">
+  <title>Kieshun Dixon | Personal Web Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <a href="#main-content">Skip to main content</a>
+
+  <header>
+    <h1>Kieshun Dixon</h1>
+    <p class="tagline">Customer Advisor and IT Professional.</p>
+
+    <nav aria-label="Main navigation">
+      <ul>
+        <li><a href="#about">About Me</a></li>
+        <li><a href="#interests">Interests</a></li>
+        <li><a href="#goals">Goals</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main-content">
+
+    <section id="about" class="section-box">
+      <h2>About Me</h2>
+
+      <img src="kieshun.jpg" alt="Me smiling in green shirt with white undershirt" width="200">
+
+      <p>Hello! My name is Kieshun. I am a full time student majoring in Information Technology at Campus. My experience currently includes remote and in-office customer service as well as account and technical support roles. I thought I'd take the skills I already have a bit further by studying Information Technology and earning certifications. My interests are currently aligned with Cybersecurity; I'm currently researching different careers in the field.
+        I've taken on roles for big name companies like Uber &amp; Postmates, The Farmer's Dog, and even indirectly with TikTok. I've had the pleasure of being able to network and gaining various computer related skills. I'm currently looking to take things to the next level and hopefully find a career that I love and a team I can bring value to.</p>
+    </section>
+
+    <section id="interests" class="section-box">
+      <h2>Interests</h2>
+      <p>Here are a few things I enjoy. I've split them into personal and professional:</p>
+
+      <ul>
+        <li>Traveling - I love getting to visit new cities and environments.</li>
+        <li>Gaming/Anime - I have a PS5 and Switch and I'm currently looking into PC gaming.</li>
+        <li>Art &amp; Music - I love all types of music. I also love art. I used to paint and draw a lot but as I get older I find myself having less time to. I would love to pick it back up soon.</li>
+      </ul>
+
+      <ul>
+        <li>Associates degree - Step one for me is earning a degree to start things off. I'm starting with Campus since I didn't have to come out of pocket for the education. </li>
+        <li>Professional certifications - I'm currently researching what certifications I need to pursue a career in Cybersecurity. </li>
+        <li>Cybersecurity roles</li>
+      </ul>
+
+      <h3>Favorite Project So Far</h3>
+      <p>My favorite project so far was creating a simple test webpage for my intro to Information Technology class last semester. As simple as it was, I had to do a ton of research for this project. I wanted to link it here, but I have learned the hard way how easy it is to lose files you don't backup.</p>
+    </section>
+
+    <section id="goals" class="section-box">
+      <h2>Goals</h2>
+      <p>My steps toward landing a cybersecurity role align very closely with my professional interests:</p>
+
+      <ol>
+        <li>Earn an associates degree in Information Technology.</li>
+        <li>Obtain relevant professional certifications in cybersecurity.</li>
+        <li>Gain hands-on experience through internships or entry-level positions.</li>
+      </ol>
+
+      <p>I am learning from the professors here at campus as well as utilizing a mix of the materials recommended and youtube videos like the one here: <a href="https://www.youtube.com/watch?v=f8_uF_IDV50">Learn Visual Studio Code in 15 minutes: 2026 Official Beginner Tutorial</a>.</p>
+    </section>
+
+    <section id="contact" class="section-box">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:dixonkieshun@gmail.com">dixonkieshun@gmail.com</a>.</p>
+      <p>Phone: (931) 801-3430</p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Kieshun Dixon Built with HTML</p>
+  </footer>
+</body>
+</html>
